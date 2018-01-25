@@ -6,7 +6,7 @@
  * @return {Boolean}
  */
 function isElement(ele){
-  return ele && ele.nodeType == 1;
+   return ele && ele.nodeType == 1;
 }
 
 /**
